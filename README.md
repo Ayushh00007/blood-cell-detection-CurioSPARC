@@ -1,3 +1,3 @@
-AI-Based Blood Screening Device for Rural Healthcare |
+Handheld Micro-Imaging Device |
 AI-based blood cell detection &amp; disease classification for rural healthcare screening — CurioSPARC
 
